@@ -1,0 +1,9 @@
+streamlit
+ffmpeg-python
+librosa
+numpy
+pandas
+scikit-learn
+tensorflow
+keras
+ipython
